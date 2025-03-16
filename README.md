@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/25ab8fa0-7e83-4297-9756-b4d7e3c5de6b)# 接毕业设计和论文
+# 接毕业设计和论文
 作者微信：xunmaw001  作者QQ：2223505639(支持修改、部署调试、支持代做毕设)
 
 接网站设计、小程序、H5、APP、各种系统等，单片机、嵌入式也可以做
@@ -13,3 +13,4 @@
 ![image](https://github.com/user-attachments/assets/7203165b-2c1f-4b28-b247-d9bf9ea1dd76)
 ![image](https://github.com/user-attachments/assets/cb1180c7-8b2d-4906-a5fd-6a95cfa1ab24)
 ![image](https://github.com/user-attachments/assets/219be98d-132a-4d9b-9fe3-1b4372e62f92)
+![image](https://github.com/user-attachments/assets/25ab8fa0-7e83-4297-9756-b4d7e3c5de6b)
